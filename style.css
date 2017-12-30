@@ -1,0 +1,43 @@
+body {
+	background-image: url("screensaver.png");
+	background-size: auto;
+}
+
+.inspirational-note {
+	width: 500px;
+	height: 320px;
+	margin-bottom: 50px;
+	position: relative;
+	top: 350px;
+};
+
+.row {
+	height: 500px;
+}
+
+.main-folders {
+	height: 105px;
+	width: 1000px;
+	border: ridge #e67e00 5px;
+	margin: 40px;
+	position: relative;
+	top: 250px;
+}
+
+.name {
+	border: solid black 3px;
+}
+
+.next {
+	width: 210px;
+	height: 320px;
+	margin-bottom: 25px;
+	position: relative;
+	top: 225px;
+	right: 300px;
+}
+
+p {
+	position: relative;
+	top: 1000px;
+}
